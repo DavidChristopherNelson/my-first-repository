@@ -1,0 +1,1 @@
+p "My cats, ButterscotcH".match(/[hH]/)
